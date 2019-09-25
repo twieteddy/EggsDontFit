@@ -1,0 +1,18 @@
+name: EggsDontFit
+version: "1.0"
+api-version: "1.13"
+description: "Denies spawn eggs from being put in spawners"
+
+author: Teddy
+authors: []
+website: https://twieteddy.github.io
+
+main: io.github.twieteddy.eggsdontfit.EggsDontFitPlugin
+database: false
+depend: []
+softdepend: []
+
+permissions:
+  eggsdontfit.denyspawnerchange:
+    description: Deny spawn eggs from being put in spawners
+    default: false
