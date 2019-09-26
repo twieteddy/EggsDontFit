@@ -2,7 +2,7 @@
 Deny spawn eggs from being put in spawners
 
 ## Requirements
-* Paper 1.13.2+
+* Spigot 1.13.2+
 * Java 1.8+
 
 ### Permissions
